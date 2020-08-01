@@ -21,6 +21,11 @@ To Run the application extract all the files in a separate folder.
 • To open Gmail messages run the file named 'notifications.py'. In the Console dialog box a message will ask for input to show messages. Input number of messages you want to see.
 • To check the productivity data open the JSON file names 'activities.json' from the folder. The file will show applications, time, day, date, key, and mouse data. 
 
+# Dependencies
+1. Python3
+2. Visual Basic
+
+
 # License
 MIT License
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
