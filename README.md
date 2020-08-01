@@ -13,12 +13,13 @@ In this project, we will focus on building a tool for developers to track their 
 •	Drafting a JSON report to keep a track of the applications used with time, day, keyboard/activity, and Visualize the data.
 •	Graphs to understand the overall productivity of the day. Application with time shown on the graphs. 
 
-# Keyboard/Mouse Activity
-*Design*
-For measuring the mouse activity, a mouse logging tool will be developed using the Python input library. As Python is open-source software with various libraries to interact with 'Windows' activities it will be easy to develop such software. Also, the input library will be used as it supports mouse, keyboard monitoring with mouse toggling, clicks, and scroll functions to be measured separately. The goal is to design software that can show real-time movements of mouse activities on different applications. These applications will individually monitor the mouse activity such as movement in (x,y) coordinates, scroll up/down, and clicks to get an idea of what kind of work is performed on application. A mouse movement with scrolling and clicks shows that whether the user is idle sitting idle while running applications or is active while the applications.   
+# Application Run
+To Run the application extract all the files in a separate folder.
 
-It was mentioned in the project that we were are not supposed to design a Keylogger, I have still designed a keylogger to monitor the keyboard activity on individual applications. This software will not just be used to measure the number of keystrokes but will be utilized to understand the key activity on application versus the time that the application has been used. This will clearly show the typing speed on each application which will be useful in understanding productivity. 
-To design a key logger I have referred to various YouTube videos and books which helped me understand the development process and usability of Key loggers.I then made my key logger with custom functions to work with activity tracking software running in real-time to show the total keys uses and the type of keys used on individual applications
+• Then, Open all the python files and Run the 'activitytimer.py'
+• After the python script is running you can open close applications, use keyboard/mouse and also open Gmail.
+• To open Gmail messages run the file named 'notifications.py'. In the Console dialog box a message will ask for input to show messages. Input number of messages you want to see.
+• To check the productivity data open the JSON file names 'activities.json' from the folder. The file will show applications, time, day, date, key, and mouse data. 
 
 # License
 MIT License
