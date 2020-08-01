@@ -1,0 +1,3242 @@
+{
+    "activities": [
+        {
+            "name": "Spyder (Python 3.8)",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:03:07",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-07-31 19:03:04"
+                },
+                {
+                    "end_time": "2020-07-31 19:03:13",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-07-31 19:03:10"
+                },
+                {
+                    "end_time": "2020-07-31 19:12:44",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-07-31 19:12:39"
+                },
+                {
+                    "end_time": "2020-07-31 19:13:55",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-07-31 19:13:49"
+                },
+                {
+                    "end_time": "2020-07-31 19:52:35",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 29,
+                    "start_time": "2020-07-31 19:52:06"
+                },
+                {
+                    "end_time": "2020-07-31 19:52:45",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:52:43"
+                }
+            ]
+        },
+        {
+            "name": "Screencast-O-Matic - 2.5.6",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:03:09",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:03:07"
+                }
+            ]
+        },
+        {
+            "name": "activities.json - Microsoft Visual Studio",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:03:10",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:03:09"
+                },
+                {
+                    "end_time": "2020-07-31 19:04:02",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 30,
+                    "start_time": "2020-07-31 19:03:32"
+                },
+                {
+                    "end_time": "2020-07-31 19:51:29",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-07-31 19:51:26"
+                },
+                {
+                    "end_time": "2020-07-31 19:51:37",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-07-31 19:51:34"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:03:16",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-07-31 19:03:13"
+                },
+                {
+                    "end_time": "2020-07-31 19:03:18",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:03:17"
+                },
+                {
+                    "end_time": "2020-07-31 19:03:25",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:03:23"
+                },
+                {
+                    "end_time": "2020-07-31 19:04:07",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:04:05"
+                },
+                {
+                    "end_time": "2020-07-31 19:04:47",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:04:46"
+                },
+                {
+                    "end_time": "2020-07-31 19:06:18",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-07-31 19:06:15"
+                },
+                {
+                    "end_time": "2020-07-31 19:08:10",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:08:08"
+                },
+                {
+                    "end_time": "2020-07-31 19:10:14",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:10:13"
+                },
+                {
+                    "end_time": "2020-07-31 19:12:50",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-07-31 19:12:45"
+                },
+                {
+                    "end_time": "2020-07-31 19:13:29",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-07-31 19:13:25"
+                },
+                {
+                    "end_time": "2020-07-31 19:15:09",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:15:08"
+                },
+                {
+                    "end_time": "2020-07-31 19:15:30",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:15:29"
+                },
+                {
+                    "end_time": "2020-07-31 19:15:32",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:15:31"
+                },
+                {
+                    "end_time": "2020-07-31 19:16:18",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:16:16"
+                },
+                {
+                    "end_time": "2020-07-31 19:18:50",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:18:49"
+                },
+                {
+                    "end_time": "2020-07-31 19:19:07",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2020-07-31 19:18:54"
+                },
+                {
+                    "end_time": "2020-07-31 19:19:17",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2020-07-31 19:19:08"
+                },
+                {
+                    "end_time": "2020-07-31 19:21:07",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:21:06"
+                },
+                {
+                    "end_time": "2020-07-31 19:21:17",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:21:15"
+                },
+                {
+                    "end_time": "2020-07-31 19:21:35",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:21:34"
+                },
+                {
+                    "end_time": "2020-07-31 19:46:25",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:46:24"
+                },
+                {
+                    "end_time": "2020-07-31 19:51:22",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:51:21"
+                },
+                {
+                    "end_time": "2020-07-31 19:51:26",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:51:24"
+                }
+            ]
+        },
+        {
+            "name": "appmaking  -  Last saved by user - Word",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:03:17",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:03:16"
+                }
+            ]
+        },
+        {
+            "name": "Document1 - Word",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:03:23",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-07-31 19:03:18"
+                },
+                {
+                    "end_time": "2020-07-31 19:03:32",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-07-31 19:03:27"
+                },
+                {
+                    "end_time": "2020-07-31 19:04:05",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-07-31 19:04:02"
+                },
+                {
+                    "end_time": "2020-07-31 19:04:46",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:04:45"
+                },
+                {
+                    "end_time": "2020-07-31 19:05:43",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 55,
+                    "start_time": "2020-07-31 19:04:47"
+                },
+                {
+                    "end_time": "2020-07-31 19:06:04",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2020-07-31 19:05:46"
+                },
+                {
+                    "end_time": "2020-07-31 19:07:49",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 1,
+                    "seconds": 30,
+                    "start_time": "2020-07-31 19:06:19"
+                },
+                {
+                    "end_time": "2020-07-31 19:08:08",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 16,
+                    "start_time": "2020-07-31 19:07:52"
+                },
+                {
+                    "end_time": "2020-07-31 19:08:53",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 42,
+                    "start_time": "2020-07-31 19:08:10"
+                },
+                {
+                    "end_time": "2020-07-31 19:09:49",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 55,
+                    "start_time": "2020-07-31 19:08:54"
+                },
+                {
+                    "end_time": "2020-07-31 19:10:13",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 21,
+                    "start_time": "2020-07-31 19:09:52"
+                },
+                {
+                    "end_time": "2020-07-31 19:12:39",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 2,
+                    "seconds": 25,
+                    "start_time": "2020-07-31 19:10:14"
+                },
+                {
+                    "end_time": "2020-07-31 19:13:24",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 19,
+                    "start_time": "2020-07-31 19:13:05"
+                },
+                {
+                    "end_time": "2020-07-31 19:13:49",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 20,
+                    "start_time": "2020-07-31 19:13:29"
+                },
+                {
+                    "end_time": "2020-07-31 19:15:08",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 1,
+                    "seconds": 13,
+                    "start_time": "2020-07-31 19:13:55"
+                },
+                {
+                    "end_time": "2020-07-31 19:15:29",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 20,
+                    "start_time": "2020-07-31 19:15:09"
+                },
+                {
+                    "end_time": "2020-07-31 19:15:31",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:15:30"
+                },
+                {
+                    "end_time": "2020-07-31 19:16:16",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 44,
+                    "start_time": "2020-07-31 19:15:32"
+                },
+                {
+                    "end_time": "2020-07-31 19:18:49",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 2,
+                    "seconds": 31,
+                    "start_time": "2020-07-31 19:16:18"
+                },
+                {
+                    "end_time": "2020-07-31 19:21:15",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2020-07-31 19:21:07"
+                },
+                {
+                    "end_time": "2020-07-31 19:21:42",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-07-31 19:21:35"
+                },
+                {
+                    "end_time": "2020-07-31 19:52:06",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 29,
+                    "start_time": "2020-07-31 19:51:37"
+                }
+            ]
+        },
+        {
+            "name": "Python 3.8.3 Shell",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:03:27",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:03:25"
+                }
+            ]
+        },
+        {
+            "name": "youtube.com",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:04:45",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 38,
+                    "start_time": "2020-07-31 19:04:07"
+                },
+                {
+                    "end_time": "2020-07-31 19:05:46",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-07-31 19:05:43"
+                },
+                {
+                    "end_time": "2020-07-31 19:08:54",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:08:53"
+                },
+                {
+                    "end_time": "2020-07-31 19:12:45",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:12:44"
+                },
+                {
+                    "end_time": "2020-07-31 19:27:21",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-07-31 19:27:18"
+                }
+            ]
+        },
+        {
+            "name": "Bandicam (Unregistered)",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:06:13",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2020-07-31 19:06:04"
+                },
+                {
+                    "end_time": "2020-07-31 19:06:19",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:06:18"
+                },
+                {
+                    "end_time": "2020-07-31 19:07:52",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-07-31 19:07:49"
+                },
+                {
+                    "end_time": "2020-07-31 19:09:52",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:09:51"
+                },
+                {
+                    "end_time": "2020-07-31 19:19:28",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:19:26"
+                },
+                {
+                    "end_time": "2020-07-31 19:24:45",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:24:44"
+                },
+                {
+                    "end_time": "2020-07-31 19:24:51",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:24:49"
+                },
+                {
+                    "end_time": "2020-07-31 19:46:23",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 19,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:27:21"
+                },
+                {
+                    "end_time": "2020-07-31 19:46:29",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-07-31 19:46:25"
+                }
+            ]
+        },
+        {
+            "name": "XPopupWnd",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:06:15",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:06:13"
+                }
+            ]
+        },
+        {
+            "name": "Bandicam",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:09:51",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:09:49"
+                }
+            ]
+        },
+        {
+            "name": "google.com",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:13:05",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2020-07-31 19:12:50"
+                },
+                {
+                    "end_time": "2020-07-31 19:19:21",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-07-31 19:19:17"
+                }
+            ]
+        },
+        {
+            "name": "docs.python.org",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:13:25",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:13:24"
+                }
+            ]
+        },
+        {
+            "name": "\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:18:54",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-07-31 19:18:50"
+                },
+                {
+                    "end_time": "2020-07-31 19:21:06",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2020-07-31 19:20:53"
+                },
+                {
+                    "end_time": "2020-07-31 19:21:22",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-07-31 19:21:17"
+                },
+                {
+                    "end_time": "2020-07-31 19:21:28",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:21:27"
+                },
+                {
+                    "end_time": "2020-07-31 19:21:32",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:21:29"
+                },
+                {
+                    "end_time": "2020-07-31 19:21:34",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:21:33"
+                },
+                {
+                    "end_time": "2020-07-31 19:21:54",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2020-07-31 19:21:42"
+                },
+                {
+                    "end_time": "2020-07-31 19:22:06",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:22:05"
+                },
+                {
+                    "end_time": "2020-07-31 19:22:12",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-07-31 19:22:07"
+                },
+                {
+                    "end_time": "2020-07-31 19:22:32",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2020-07-31 19:22:20"
+                },
+                {
+                    "end_time": "2020-07-31 19:23:50",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-07-31 19:23:46"
+                },
+                {
+                    "end_time": "2020-07-31 19:24:44",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 45,
+                    "start_time": "2020-07-31 19:23:59"
+                },
+                {
+                    "end_time": "2020-07-31 19:24:49",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-07-31 19:24:45"
+                },
+                {
+                    "end_time": "2020-07-31 19:25:46",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 20,
+                    "start_time": "2020-07-31 19:25:25"
+                },
+                {
+                    "end_time": "2020-07-31 19:46:24",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:46:23"
+                },
+                {
+                    "end_time": "2020-07-31 19:48:55",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2020-07-31 19:48:37"
+                }
+            ]
+        },
+        {
+            "name": "pypi.org",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:19:08",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:19:07"
+                }
+            ]
+        },
+        {
+            "name": "developers.google.com",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:19:26",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-07-31 19:19:21"
+                },
+                {
+                    "end_time": "2020-07-31 19:19:30",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:19:28"
+                },
+                {
+                    "end_time": "2020-07-31 19:19:47",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2020-07-31 19:19:33"
+                },
+                {
+                    "end_time": "2020-07-31 19:20:05",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-07-31 19:20:02"
+                },
+                {
+                    "end_time": "2020-07-31 19:20:47",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:20:45"
+                }
+            ]
+        },
+        {
+            "name": "@article{OneDayBuilds,\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:19:33",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-07-31 19:19:30"
+                }
+            ]
+        },
+        {
+            "name": "@article{softdatat2020,\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:19:49",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:19:47"
+                }
+            ]
+        },
+        {
+            "name": "@article{Python Quickstart,\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:19:51",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:19:49"
+                }
+            ]
+        },
+        {
+            "name": "@article{PythonQuickstart,\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:20:02",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2020-07-31 19:19:51"
+                },
+                {
+                    "end_time": "2020-07-31 19:20:08",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:20:05"
+                },
+                {
+                    "end_time": "2020-07-31 19:23:52",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:23:50"
+                }
+            ]
+        },
+        {
+            "name": "  title={What is it like to work remotely as a software developer?},\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:20:09",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:20:08"
+                }
+            ]
+        },
+        {
+            "name": "  title={Python command-line application that makes requests to the Gmail API.},\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:20:22",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2020-07-31 19:20:09"
+                }
+            ]
+        },
+        {
+            "name": "  author={Denis Shershnev\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:20:36",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2020-07-31 19:20:22"
+                }
+            ]
+        },
+        {
+            "name": "  author={G\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:20:37",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:20:36"
+                },
+                {
+                    "end_time": "2020-07-31 19:20:41",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:20:39"
+                }
+            ]
+        },
+        {
+            "name": "  author={GMAIL\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:20:39",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:20:37"
+                }
+            ]
+        },
+        {
+            "name": "  author={Gmail\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:20:45",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-07-31 19:20:41"
+                },
+                {
+                    "end_time": "2020-07-31 19:20:49",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:20:47"
+                }
+            ]
+        },
+        {
+            "name": "  journal={https:",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:20:51",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:20:50"
+                }
+            ]
+        },
+        {
+            "name": "  journal=https:",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:20:53",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:20:51"
+                }
+            ]
+        },
+        {
+            "name": "\\section{Conclusion}\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:21:26",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-07-31 19:21:22"
+                },
+                {
+                    "end_time": "2020-07-31 19:25:25",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:25:24"
+                },
+                {
+                    "end_time": "2020-07-31 19:46:30",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:46:29"
+                }
+            ]
+        },
+        {
+            "name": "\\section{Gmail Notifications}\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:21:27",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:21:26"
+                },
+                {
+                    "end_time": "2020-07-31 19:21:29",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:21:28"
+                },
+                {
+                    "end_time": "2020-07-31 19:21:33",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:21:32"
+                },
+                {
+                    "end_time": "2020-07-31 19:25:22",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:25:20"
+                }
+            ]
+        },
+        {
+            "name": "\\textbf{Design}\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:22:05",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2020-07-31 19:21:54"
+                }
+            ]
+        },
+        {
+            "name": "This is an additional feature to the application where the application will be able to connect to the user\u2019s \u2018Gmail\u2019 account. When the user gives access to their Gmail account the application will be able to read and monitor emails and can show emails when prompted. Features like reading message type from \u2018Inbox\u2019 and \u2018Unread\u2019 messages from Gmail. The user will then be asked about the number of mes\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:22:07",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:22:06"
+                }
+            ]
+        },
+        {
+            "name": "\\textbf{Implementation}\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:22:20",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-07-31 19:22:12"
+                },
+                {
+                    "end_time": "2020-07-31 19:25:20",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 29,
+                    "start_time": "2020-07-31 19:24:51"
+                }
+            ]
+        },
+        {
+            "name": "\u2022 \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:22:33",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:22:32"
+                }
+            ]
+        },
+        {
+            "name": " \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:22:39",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-07-31 19:22:33"
+                },
+                {
+                    "end_time": "2020-07-31 19:22:42",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:22:41"
+                }
+            ]
+        },
+        {
+            "name": "\u2022\tIf there are no messages the result would be \u2018no messages\u2019.\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:22:41",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:22:39"
+                }
+            ]
+        },
+        {
+            "name": "\u2022  \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:22:43",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:22:42"
+                }
+            ]
+        },
+        {
+            "name": "\u2022   \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:22:47",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-07-31 19:22:43"
+                }
+            ]
+        },
+        {
+            "name": "\u2022   This \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:22:48",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:22:47"
+                }
+            ]
+        },
+        {
+            "name": "\u2022   This prog\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:22:50",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:22:48"
+                }
+            ]
+        },
+        {
+            "name": "\u2022   This programn \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:22:52",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:22:50"
+                }
+            ]
+        },
+        {
+            "name": "\u2022   This program is \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:22:54",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:22:52"
+                }
+            ]
+        },
+        {
+            "name": "\u2022   This program is run s\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:22:55",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:22:54"
+                }
+            ]
+        },
+        {
+            "name": "\u2022   This program is run seperat\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:22:56",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:22:55"
+                }
+            ]
+        },
+        {
+            "name": "\u2022   This program is run seperatly usi\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:22:57",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:22:56"
+                }
+            ]
+        },
+        {
+            "name": "\u2022   This program is run seperatly using the \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:22:59",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:22:57"
+                }
+            ]
+        },
+        {
+            "name": "\u2022   This program is run seperatly using the applica\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:23:00",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:22:59"
+                }
+            ]
+        },
+        {
+            "name": "\u2022   This program is run seperatly using the applicatiomn\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:23:01",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:23:00"
+                }
+            ]
+        },
+        {
+            "name": "\u2022   This program is run seperatly using the application a\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:23:03",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:23:01"
+                }
+            ]
+        },
+        {
+            "name": "\u2022   This program is run seperatly using the application and t\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:23:04",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:23:03"
+                }
+            ]
+        },
+        {
+            "name": "\u2022   This program is run seperatly using the application and the d\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:23:05",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:23:04"
+                }
+            ]
+        },
+        {
+            "name": "\u2022   This program is run seperatly using the application and the data is \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:23:06",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:23:05"
+                }
+            ]
+        },
+        {
+            "name": "\u2022   This program is run seperatly using the application and the data is shjo\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:23:08",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:23:07"
+                }
+            ]
+        },
+        {
+            "name": "\u2022   This program is run seperatly using the application and the data is sh\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:23:09",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:23:08"
+                }
+            ]
+        },
+        {
+            "name": "\u2022   This program is run seperatly using the application and the data is shown e\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:23:10",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:23:09"
+                }
+            ]
+        },
+        {
+            "name": "\u2022   This program is run seperatly using the application and the data is shown evertime i\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:23:12",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:23:10"
+                }
+            ]
+        },
+        {
+            "name": "\u2022   This program is run seperatly using the application and the data is shown evertime it is run\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:23:13",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:23:12"
+                }
+            ]
+        },
+        {
+            "name": "\u2022   This program is run seperatly using the application and the data is shown evertime it is run. \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:23:18",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-07-31 19:23:13"
+                }
+            ]
+        },
+        {
+            "name": "\u2022   This program is run separately using the application and the data is shown evertime it is run. \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:23:19",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:23:18"
+                }
+            ]
+        },
+        {
+            "name": "\u2022   This program is run separately using the application and the data is shown ever time it is run. \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:23:37",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2020-07-31 19:23:19"
+                }
+            ]
+        },
+        {
+            "name": "To implement this activity tracker and update information to 'JSON' file i watched two 'YouTube' videos on how to track application time using python. These videos gave me the idea about how to utilize Python to build this software. I have utilized these ideas to build my own software as this was also an Open Source Project shared on GitHub.  ~\\cite{OneDayBuilds2019}~\\cite{OneDayBuilds}.\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:23:42",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-07-31 19:23:37"
+                }
+            ]
+        },
+        {
+            "name": "\u2022\tThis program is available on the developer page of Google and is open sourced for use.\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:23:45",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:23:42"
+                }
+            ]
+        },
+        {
+            "name": "}\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:23:46",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:23:45"
+                }
+            ]
+        },
+        {
+            "name": "\u2022\tThis program is available on the developer page of Google and is open sourced for use~\\cite{OneDayBuilds}.\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:23:56",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-07-31 19:23:52"
+                }
+            ]
+        },
+        {
+            "name": "\u2022\tThis program is available on the developer page of Google and is open sourced for use~\\cite{PythonQuickstart}.\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:23:59",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:23:56"
+                }
+            ]
+        },
+        {
+            "name": "\\section{Con}\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:25:23",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:25:22"
+                }
+            ]
+        },
+        {
+            "name": "\\section{Conclusi}\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:25:24",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:25:23"
+                }
+            ]
+        },
+        {
+            "name": "\n\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:25:47",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:25:46"
+                }
+            ]
+        },
+        {
+            "name": "I wo\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:25:48",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:25:47"
+                }
+            ]
+        },
+        {
+            "name": "I would li\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:25:49",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:25:48"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would likl\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:25:51",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:25:50"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like tp\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:25:52",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:25:51"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like to say\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:25:53",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:25:52"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like to say \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:25:55",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:25:53"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like to say i\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:25:56",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:25:55"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like to say sinc\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:25:57",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:25:56"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like to say since it \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:26:00",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:25:57"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like to say since it is \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:26:04",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-07-31 19:26:00"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like to say since it\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:26:05",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:26:04"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like to say since i \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:26:06",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:26:05"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like to say since i have been\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:26:07",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:26:06"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like to say since i have been new to \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:26:09",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:26:07"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like to say since i have been new to making \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:26:10",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:26:09"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like to say since i have been new to making ap\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:26:11",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:26:10"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like to say since i have been new to making applicatio\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:26:13",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:26:11"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like to say since i have been new to making application \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:26:14",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:26:13"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like to say since i have been new to making application usig\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:26:15",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:26:14"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like to say since i have been new to making application using \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:26:17",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:26:15"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like to say since i have been new to making application using code\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:26:18",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:26:17"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like to say since i have been new to making application using codes an\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:26:19",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:26:18"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like to say since i have been new to making application using codes and \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:26:20",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:26:19"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like to say since i have been new to making application using codes and imple\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:26:22",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:26:20"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like to say since i have been new to making application using codes and implementinf \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:26:23",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:26:22"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like to say since i have been new to making application using codes and implementinf\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:26:24",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:26:23"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like to say since i have been new to making application using codes and implementing \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:26:27",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:26:24"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like to say since i have been new to making application using codes and implementing GUI\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:26:29",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:26:27"
+                }
+            ]
+        },
+        {
+            "name": "In Conclusion, I would like to say since i have been new to making application using codes and implementing GUI",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:27:18",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 48,
+                    "start_time": "2020-07-31 19:26:29"
+                },
+                {
+                    "end_time": "2020-07-31 19:48:37",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 2,
+                    "seconds": 7,
+                    "start_time": "2020-07-31 19:46:30"
+                }
+            ]
+        },
+        {
+            "name": "This \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:48:56",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:48:55"
+                }
+            ]
+        },
+        {
+            "name": "This J=\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:48:57",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:48:56"
+                }
+            ]
+        },
+        {
+            "name": "This JSO\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:48:59",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:48:57"
+                }
+            ]
+        },
+        {
+            "name": "This JSON \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:00",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:48:59"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:01",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:00"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file store\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:02",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:01"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:04",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:02"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the informa\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:05",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:04"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:06",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:05"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real t\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:08",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:06"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:10",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:49:08"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:12",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:10"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:13",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:12"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:14",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:13"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:15",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:14"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the ke\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:17",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:15"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keybpo\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:18",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:17"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keybpora\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:19",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:18"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyb\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:21",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:19"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:22",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:21"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse a\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:23",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:22"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:25",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:23"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for ea\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:26",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:25"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each appl\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:27",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:26"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:28",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:27"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications b\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:30",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:29"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:31",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:30"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. But \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:32",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:31"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. B\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:34",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:32"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Alth\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:35",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:34"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Althpug\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:36",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:35"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Althou\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:38",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:36"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:39",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:38"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:42",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:49:39"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:43",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:42"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not fa\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:44",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:43"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not famil\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:45",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:44"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar w\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:47",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:45"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with makin\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:48",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:47"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GU\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:49",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:48"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI ap\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:51",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:49"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applicatio\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:52",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:51"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI application\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:53",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:52"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:55",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:53"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visu\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:56",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:55"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual ST\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:57",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:56"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual STud\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:49:58",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:57"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Stud\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:00",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:49:59"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:01",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:00"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio or \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:02",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:01"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio or Py\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:04",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:02"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio or Python\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:05",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:04"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:06",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:05"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Py\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:08",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:06"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:09",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:08"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or a\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:10",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:09"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any othe\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:11",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:10"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other de\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:13",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:12"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:14",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:13"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer apploic\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:15",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:14"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer applica\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:17",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:15"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application. \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:24",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-07-31 19:50:17"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application. T\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:26",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:24"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application. Th\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:27",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:26"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer applicatio\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:28",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:27"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:30",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:28"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this apploicat\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:31",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:30"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this apploication \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:32",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:31"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this appl\n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:36",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-07-31 19:50:32"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this application \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:37",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:36"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this application still \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:39",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:37"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this application still shows \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:40",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:39"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this application still shows visual \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:41",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:40"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this application still shows visual data \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:45",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-07-31 19:50:41"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this application still shows visual strudata \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:46",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:45"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this application still shows visual structureddata \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:48",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:46"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this application still shows visual structured data \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:50",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:50:48"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this application still shows visual structured data  \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:52",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:50"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this application still shows visual structured data inj \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:53",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:52"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this application still shows visual structured data in  \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:54",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:53"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this application still shows visual structured data in Visual  \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:56",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:54"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this application still shows visual structured data in Visual Studio \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:57",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:56"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this application still shows visual structured data in Visual Studio Fr \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:50:58",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:57"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this application still shows visual structured data in Visual Studio fri \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:51:00",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:50:58"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this application still shows visual structured data in Visual Studio from  \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:51:01",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:51:00"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this application still shows visual structured data in Visual Studio from a  \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:51:02",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:51:01"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this application still shows visual structured data in Visual Studio from a JSO \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:51:04",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:51:02"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this application still shows visual structured data in Visual Studio from a JSON file \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:51:05",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:51:04"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this application still shows visual structured data in Visual Studio from a JSON file. \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:51:09",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-07-31 19:51:05"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this application still shows visual structured data in Visual Studio' from a JSON file. \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:51:10",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-07-31 19:51:09"
+                }
+            ]
+        },
+        {
+            "name": "This JSON file stores the information in real time. It also saves the keyboard and mouse activity for each applications. Although, i am still not familiar with making GUI applications using Visual Studio, Python or any other developer application this application still shows visual structured data in 'Visual Studio' from a JSON file. \n\n",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:51:21",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2020-07-31 19:51:10"
+                }
+            ]
+        },
+        {
+            "name": "AutoTimer-master",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:51:24",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-07-31 19:51:22"
+                }
+            ]
+        },
+        {
+            "name": "Screen snipping",
+            "time_entries": [
+                {
+                    "end_time": "2020-07-31 19:51:34",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2020-07-31 19:51:29"
+                },
+                {
+                    "end_time": "2020-07-31 19:52:42",
+                    "hours": 0,
+                    "keys": 1,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-07-31 19:52:35"
+                }
+            ]
+        }
+    ]
+}
