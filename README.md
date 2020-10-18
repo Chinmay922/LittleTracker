@@ -25,6 +25,10 @@ To Run the application extract all the files in a separate folder.
 1. Python3
 2. Visual Basic
 
+# Results
+![](Application%20Result/image1.png)
+![](Application%20Result/image2.png)
+![](Application%20Result/image3.png)
 
 # License
 MIT License
